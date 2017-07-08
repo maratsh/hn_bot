@@ -1,4 +1,4 @@
-# Hacker news bot for Telegramm
+# Hacker news bot for [Telegramm](https://web.telegram.org/)
 
 Bot is running on webtask.io by undocumented feature.
 
